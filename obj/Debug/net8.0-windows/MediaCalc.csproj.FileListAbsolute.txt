@@ -1,0 +1,16 @@
+D:\backup meu\programação Valber\Projetos_C#\MediaCalc\MediaCalc\obj\Debug\net8.0-windows\MediaCalc.Form1.resources
+D:\backup meu\programação Valber\Projetos_C#\MediaCalc\MediaCalc\obj\Debug\net8.0-windows\MediaCalc.csproj.GenerateResource.cache
+D:\backup meu\programação Valber\Projetos_C#\MediaCalc\MediaCalc\obj\Debug\net8.0-windows\MediaCalc.GeneratedMSBuildEditorConfig.editorconfig
+D:\backup meu\programação Valber\Projetos_C#\MediaCalc\MediaCalc\obj\Debug\net8.0-windows\MediaCalc.AssemblyInfoInputs.cache
+D:\backup meu\programação Valber\Projetos_C#\MediaCalc\MediaCalc\obj\Debug\net8.0-windows\MediaCalc.AssemblyInfo.cs
+D:\backup meu\programação Valber\Projetos_C#\MediaCalc\MediaCalc\obj\Debug\net8.0-windows\MediaCalc.csproj.CoreCompileInputs.cache
+D:\backup meu\programação Valber\Projetos_C#\MediaCalc\MediaCalc\bin\Debug\net8.0-windows\MediaCalc.exe
+D:\backup meu\programação Valber\Projetos_C#\MediaCalc\MediaCalc\bin\Debug\net8.0-windows\MediaCalc.deps.json
+D:\backup meu\programação Valber\Projetos_C#\MediaCalc\MediaCalc\bin\Debug\net8.0-windows\MediaCalc.runtimeconfig.json
+D:\backup meu\programação Valber\Projetos_C#\MediaCalc\MediaCalc\bin\Debug\net8.0-windows\MediaCalc.dll
+D:\backup meu\programação Valber\Projetos_C#\MediaCalc\MediaCalc\bin\Debug\net8.0-windows\MediaCalc.pdb
+D:\backup meu\programação Valber\Projetos_C#\MediaCalc\MediaCalc\obj\Debug\net8.0-windows\MediaCalc.dll
+D:\backup meu\programação Valber\Projetos_C#\MediaCalc\MediaCalc\obj\Debug\net8.0-windows\refint\MediaCalc.dll
+D:\backup meu\programação Valber\Projetos_C#\MediaCalc\MediaCalc\obj\Debug\net8.0-windows\MediaCalc.pdb
+D:\backup meu\programação Valber\Projetos_C#\MediaCalc\MediaCalc\obj\Debug\net8.0-windows\MediaCalc.genruntimeconfig.cache
+D:\backup meu\programação Valber\Projetos_C#\MediaCalc\MediaCalc\obj\Debug\net8.0-windows\ref\MediaCalc.dll
